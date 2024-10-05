@@ -17,12 +17,13 @@
   "license": "MIT",
   "keywords": [
     "css",
-    "sass",
-    "scss",
     "flexbox",
     "grid",
+    "framework",
+    "sass",
+    "mobile-first",
     "responsive",
-    "framework"
+    "front-end"
   ],
   "files": [
     "css",
