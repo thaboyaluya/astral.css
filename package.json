@@ -1,0 +1,33 @@
+{
+  "name": "astral.css",
+  "version": "2.3.1",
+  "homepage": "https://thaboyaluya.github.io/",
+  "author": {
+    "name": "OGHENERUME JOSEPH ALUYA",
+    "email": "rumealuya3@gmail.com"
+  },
+  "description": "Astral.CSS - lightweight, responsive and modern CSS framework.",
+  "main": "bulma.scss",
+  "unpkg": "css/astral.css",
+  "style": "css/astral.min.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaboyaluya/astral.css.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "sass",
+    "scss",
+    "flexbox",
+    "grid",
+    "responsive",
+    "framework"
+  ],
+  "files": [
+    "css",
+    "js",
+    "LICENSE",
+    "README.md"
+  ]
+}
