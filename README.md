@@ -11,9 +11,6 @@ Hi! Welcome to **Astral.CSS!** Astral.CSS is a free CSS framework that offers a 
 - [Documentation](https://thaboyaluya.github.io/)
 - [About the creator](#about-the-creator)
 
-## Who We Are
-
-At Astral,we believe that web devlopment should be an enjoyable and stramlined experience for developers of all skill levels.Our  framework was crafted for developers providing a collection of ready-to-use frontend components that simplify the creation of responsive web interfaces.Whether you are building a personal project or a commercial application,we aim to empower your creativity and productivity.
 
 
 
