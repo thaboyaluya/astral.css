@@ -4,13 +4,6 @@ Hi! Welcome to **Astral.CSS!** Astral.CSS is a free CSS framework that offers a 
 
 > **NOTE**: Astral.CSS also support dark mode and light mode which is very cool.
 
-## In a nutshell
-
-- [Components](#current-components)
-- [Usage](#usage)
-- [Documentation](https://thaboyaluya.github.io/)
-- [About the creator](#about-the-creator)
-
 
 
 
