@@ -24,7 +24,7 @@
 Install AiraCSS with npm
 
 ```bash
-  npm install astral.css
+  npm install airacss
   cd my-project
 ```
 
