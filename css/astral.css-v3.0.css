@@ -1,4 +1,4 @@
-  /* Astral.CSS Variables
+  /* AiraCSS Variables
      ========================================================================== */
      :root,[data-theme=light]{
 
@@ -3480,7 +3480,7 @@ html {
 
 
 
-  /* Astral.CSS Core Styles 
+  /* AiraCSS Core Styles 
      ========================================================================== */
 
 
@@ -3922,7 +3922,7 @@ h6 {
 }
 
 
-/* Astral.CSS Utilities
+/* AiraCSS Utilities
  ========================================================================== */
 
 /* CONTAINERS */
@@ -15733,7 +15733,7 @@ h6 {
     object-fit: contain
 }
 
-/* Astral.CSS Grid
+/* AiraCSS Grid
  ========================================================================== */
 
 
@@ -16106,7 +16106,7 @@ h6 {
       margin-right: auto;
   }
   
-  /* Astral.CSS Components
+  /* AiraCSS Components
  ========================================================================== */
 
  /* ALERT */

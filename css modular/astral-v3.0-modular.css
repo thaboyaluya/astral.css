@@ -1,12 +1,12 @@
 
-/* Load Astral.CSS's base styles,utilities,grid and themes */
+/* Load AiraCSS's base styles,utilities,grid and themes */
 
 @import url('../css/core.css');
 @import url('../css/utilities.css');
 @import url('../css/variables.css');
 @import url('../css/grid.css');
 
-/*  Load other Astral.CSS components */
+/*  Load other AiraCSS components */
 
 @import url('../css/alert.css');
 @import url('../css/animate.css');
